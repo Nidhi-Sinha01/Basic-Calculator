@@ -1,4 +1,4 @@
-# Internpe-internship
+
 # Basic Calculator
 
 Welcome to the Basic Calculator repository! This repository contains a simple calculator program written in [Python](https://www.python.org/). It is designed to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
